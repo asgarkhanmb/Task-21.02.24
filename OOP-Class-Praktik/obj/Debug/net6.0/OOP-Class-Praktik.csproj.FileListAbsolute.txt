@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\bin\Debug\net6.0\OOP-Class-Praktik.exe
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\bin\Debug\net6.0\OOP-Class-Praktik.deps.json
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\bin\Debug\net6.0\OOP-Class-Praktik.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\bin\Debug\net6.0\OOP-Class-Praktik.dll
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\bin\Debug\net6.0\OOP-Class-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.dll
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\refint\OOP-Class-Praktik.dll
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\OOP-Class-Praktik.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\OOP-Class-Praktik\OOP-Class-Praktik\obj\Debug\net6.0\ref\OOP-Class-Praktik.dll
